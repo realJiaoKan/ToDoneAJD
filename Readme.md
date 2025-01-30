@@ -33,4 +33,4 @@ This project aims to address the client's needs by providing an intuitive and us
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/realJiaoKan/ToDoneAJD.git
