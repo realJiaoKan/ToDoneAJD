@@ -1,44 +1,36 @@
-# ToDoneAJD
-Task Management with Color-Coded Priority
-Project Description
-This project aims to address the client's needs by creating an intuitive interface for task management. The main features include:
+# Task Management with Color-Coded Priority
 
-Task Creation: Add new tasks to be accomplished.
+## Description
 
-Visual Prioritization: Assign priorities to tasks using color codes.
+This project aims to address the client's needs by providing an intuitive and user-friendly interface for task management. It allows users to create, prioritize, and manage tasks efficiently using color-coded priorities. The application is built with **HTML**, **CSS**, and **JavaScript**, ensuring a smooth and interactive user experience.
 
-Task Management: Modify, delete, or mark tasks as completed.
+---
 
-Technologies Used: HTML, CSS, and JavaScript for a smooth and interactive user experience.
+## Features
 
-Features
-Adding Tasks:
+- **Task Creation**: Add new tasks with a description and priority level.
+- **Color-Coded Prioritization**:
+  - 🔴 **Red**: High-priority tasks.
+  - 🟠 **Orange**: Medium-priority tasks.
+  - 🟢 **Green**: Low-priority tasks.
+- **Task Management**:
+  - ✏️ **Edit**: Update task details or change priority.
+  - 🗑️ **Delete**: Remove tasks that are no longer needed.
+  - ✅ **Mark as Completed**: Check off tasks to indicate completion.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 
-Enter a task description and assign it a priority (e.g., high, medium, low) represented by colors.
+---
 
-Color-Coded Prioritization:
+## Technologies Used
 
-Red: High-priority task.
+- **HTML**: Structure and content of the web page.
+- **CSS**: Styling and layout design.
+- **JavaScript**: Dynamic functionality and interactivity.
 
-Orange: Medium-priority task.
+---
 
-Green: Low-priority task.
+## How to Use
 
-Task Management:
-
-Edit: Update the description or priority of an existing task.
-
-Delete: Remove a task that is no longer needed or has been completed.
-
-Mark as Completed: Check off a task to indicate it has been completed.
-
-Intuitive Interface:
-
-A simple and user-friendly interface for quick adoption.
-
-Technologies Used
-HTML: Structure of the web page.
-
-CSS: Styling and formatting of elements.
-
-JavaScript: Dynamic task management and user interactions.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
